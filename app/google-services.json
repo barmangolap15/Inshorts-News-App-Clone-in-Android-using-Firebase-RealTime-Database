@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "567026017907",
+    "project_id": "inshorts-e3b4f",
+    "storage_bucket": "inshorts-e3b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567026017907:android:9b623d511421e3ba2d2c06",
+        "android_client_info": {
+          "package_name": "com.codewithgolap.inshorts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567026017907-i9sklok87vhjglnon36kgagutgputv0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithgolap.inshorts",
+            "certificate_hash": "49429800c8588dfa3972411d666d9169471fa399"
+          }
+        },
+        {
+          "client_id": "567026017907-g5kool0o2fqtccrmsgb6eem1t23sa189.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABUugEVoBXDoZbsEjfkqfmwviGeG2HC1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567026017907-g5kool0o2fqtccrmsgb6eem1t23sa189.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
